@@ -1,0 +1,55 @@
+body {
+	background: url("../images/backgroundImage.jpg") fixed;
+}
+
+.container {
+	background-color: lightpink;
+	height: 95% auto;
+	border: solid;
+	margin-top: 20px;
+}
+
+html, body {
+    height:100%;
+}
+
+#gameTitle{
+	text-align: center;
+	font-weight: bold;
+	color: green;
+	padding-top: 50px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 80px;
+
+}
+
+.btn{
+	height: 60px;
+	width: 45%;
+	margin-bottom: 10px;
+}
+
+#newGame {
+	margin-top: 10%;
+}
+
+.title{
+	font-weight: bold;
+	padding-top: 20px;
+	font-size: 30px;
+}
+.row {
+	text-align: center;
+}
+
+#submit {
+	margin-top: 20px;
+}
+
+#allDone {
+	font-size: 30px;
+}
+
+#Question {
+	font-size: 30px;
+}
